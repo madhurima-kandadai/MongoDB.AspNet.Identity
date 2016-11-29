@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>MongoDB.AspNet.Identity</id>
+    <id>Mongo.AspNet</id>
     <version>1.0</version>
-    <title>MongoDB.AspNet.Identity</title>
+    <title>Mongo.AspNet</title>
     <authors>Anonymous</authors>
     <owners>Epam Systems India</owners>
-    <description>MongoDB.AspNet.Identity</description>
+    <description>Mongo.AspNet</description>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <copyright>Copyright 2016</copyright>
     <dependencies>
-      <dependency id="mongocsharpdriver" version="2.3.0" />
     </dependencies>
   </metadata>
   <files>
