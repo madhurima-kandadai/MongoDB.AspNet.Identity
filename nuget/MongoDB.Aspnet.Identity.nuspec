@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Mongo.AspNet</id>
-    <version>1.0</version>
+    <version>2.4.0</version>
     <title>Mongo.AspNet</title>
     <authors>Anonymous</authors>
     <owners>Epam Systems India</owners>
